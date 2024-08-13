@@ -8,6 +8,7 @@ Gosto muito de filmes e séries no meu tempo livre.🥰
 <a href="mailto:barbparanhos@gmail.com">
 <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 </a>
+<img align='center' src=![download20240802085152]/>
 
 
-**barbpsouza/barbpsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
