@@ -1,6 +1,6 @@
 ## Oii, me chamo Bárbara Paranhos! 👋
 Atualmente estou cursando ADS. 
-Sou muito comunicativa e busco sempre aprimorar minhas softskills.
+<ol>Sou muito comunicativa e busco sempre aprimorar minhas softskills.</ol>
 Gosto muito de filmes e séries no meu tempo livre.🥰
 <!--
 **barbpsouza/barbpsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
